@@ -5,4 +5,4 @@ source .venv/bin/activate.fish
 
 pip install -r requirements.txt
 
-python main.py
+.venv/bin/python main.py
