@@ -116,7 +116,7 @@ def action_about() -> None:
         "[bold cyan]Сканер сетей[/bold cyan]\n\n"
         "Автор: Зайцев Максим Сергеевич\n"
         "Группа: ИБКСб-25-1\n"
-        "Стек: Python, Scapy, Rich, html",
+        "Основной стек: Python, Scapy, Rich",
         title="Об авторе",
         style="cyan",
     ))
