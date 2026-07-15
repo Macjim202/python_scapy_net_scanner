@@ -3,3 +3,6 @@ reports/
 .venv/
 .git/
 __pycache__/
+reports/
+*.kate-swp
+*.swp
